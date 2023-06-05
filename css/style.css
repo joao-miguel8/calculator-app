@@ -1,0 +1,31 @@
+:root {
+/*base page pallet */
+--page-bg: #F1C89F;
+--calculator-bg: #E2DFDB;
+--display-bg: #BFBFA1;
+--display-border: #191A1A;
+/* button palette */
+--button-bg01: #4C4C4C;
+--button-border01: #1A1A1A;
+--button-bg02: #DC6428;
+--button-border02: #B14F1E;
+--button-bg03: #EAAF72;
+--button-border03: #EAAF72;
+--button-bg04: #F5F0EB;
+--button-border04: #E4D7CA;
+--button-bg05: #8A8092;
+--button-border05: #A49DAB;
+/* font color */
+--text-color01: #1A1A1A;
+--text-color02: #969194;
+--text-color03: #AB5122;
+--text-color04: #F5EFE8;
+/* accent line colors */
+--accent-line01: #E64D3E;
+--accent-line02: #E8C22C;
+--accent-line03: #025DAB;
+/* number pad background color */
+--numberpad-container-bg: #CEC0B6;
+}
+
+
